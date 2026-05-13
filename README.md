@@ -34,6 +34,32 @@
 | 作業系統 | Windows |
 
 ---
+## 執行說明
+
+### 使用 Visual Studio 執行
+
+1. 先下載或 clone 本專案到電腦。
+2. 使用 Visual Studio 開啟專案中的方案檔：
+
+```text
+HW3_WAVPlayer.sln
+```
+
+3. 開啟後，確認 Visual Studio 上方的執行設定為：
+
+```text
+Debug / Any CPU
+```
+
+4. 按下上方的「開始」按鈕，或直接按鍵盤快捷鍵：
+
+
+5. 程式啟動後，即可使用 WAV 播放器。
+   
+執行畫面
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/d1af1051-5d07-40f0-94d3-b047e382c8ad" />
+
+---
 
 ## 專案結構
 
