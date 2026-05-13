@@ -57,7 +57,8 @@ Debug / Any CPU
 5. 程式啟動後，即可使用 WAV 播放器。
    
 執行畫面
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/d1af1051-5d07-40f0-94d3-b047e382c8ad" />
+<img width="946" height="430" alt="image" src="https://github.com/user-attachments/assets/a4b9b52d-0d8d-4066-9bb7-373427459a80" />
+
 
 ---
 
